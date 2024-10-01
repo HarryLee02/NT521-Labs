@@ -1,1 +1,0 @@
-hi End {if(length($0) != 0) echo "no"; echo "yes";}
